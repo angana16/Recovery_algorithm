@@ -1,9 +1,9 @@
 # Recovery_algorithm
 
 Codes to reproduce resilience curves from: 
-a. Bhatia.U.,Udit Bhatia, Devashish Kumar, Evan Kodra, Auroop R. Ganguly " Network Science Based Quantification of Resilience Demonstrated on the Indian Railways Network".
+a. Udit Bhatia, Devashish Kumar, Evan Kodra, Auroop R. Ganguly (2016) " Network Science Based Quantification of Resilience Demonstrated on the Indian Railways Network".
 
-b. Sela L. Bhatia U., Zhuang J., Ganguly A.R, " Resilience Strategies for Interdependent Multiscale Lifeline Infrastructure Networks".
+b. Sela L. Bhatia U., Zhuang J., Ganguly A.R. ((2017) " Resilience Strategies for Interdependent Multiscale Lifeline Infrastructure Networks".
 
 1. Clone or download the repository from Github.
 2. Add the downloaded folder to MATLAB path.

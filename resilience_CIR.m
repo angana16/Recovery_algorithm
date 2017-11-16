@@ -5,11 +5,11 @@ function [c,scores,T] = resilience_CIR(Adj,adj_weighted, nodes,rm_nodes,type )
 % Written by: Udit Bhatia and Lina Sela
 % Modified by: Udit Bhatia
 % Date last modified: November 13, 2017
-% Run as following for indian railways in command window (load US_datafiles.mat): 
+% Run as following for indian railways in command window (load Indian_datafiles.mat):
 %[c,scores,T ] = resilience_CIR(adj_IRN,adj_IRN_weighted, nodes_irn,tsunami,"LargeC")
-%Run as following for indian railways in command window (load US_datafiles.mat): 
+%Run as following for MBTA in command window (load mbta_data.mat):
 %[c,scores,T ] = resilience_CIR(Adj,Adj_weighted, nodes,nodes_snow,"LargeC")
-%Run as following for indian railways in command window (load US_datafiles.mat): 
+%Run as following for USNAS in command window (load US_datafiles.mat):
 %[c,scores,T ] = resilience_CIR(adjacency,weighted_adjacency, node_struc,nodes_rem,"LargeC")
 
 G = graph(Adj);
